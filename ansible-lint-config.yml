@@ -1,0 +1,12 @@
+---
+exclude_paths:
+  - .github/
+  - .git/
+  - .vscode/
+  - .devcontainer/
+  - changelogs/
+  - .cache/
+  - .pre-commit-config.yaml
+
+write_list:
+  - all
